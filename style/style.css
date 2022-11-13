@@ -1,0 +1,77 @@
+header {
+    background-color: #23280F;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    color: #fff;
+    margin: 0;
+}
+.header-btn {
+    background-color: #23280F;
+    color: black;
+    border: 1px solid #FFD234;
+    padding: 10px 37px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.header-btn:hover {
+    background-color: #FFD234;
+}
+.header__menu {
+    gap: 24px;
+}
+ .hero{
+    position: relative;
+    min-height: 789px;
+    min-width: 100%;
+    background-image: url('../img/Apple-Watch.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .hero__title {
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 120%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 187px 0 0 150px;
+ }
+ .hero__deskription {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding: 22px 0 0 150px;
+ }
+ .hero__botton {
+    padding: 36px 0 0 150px;
+ }
+.yellow-btn {
+    background-color: #FFD234;
+    padding: 12px 46px;
+    border-radius: 5px;
+    color:#fff;
+    cursor: pointer;
+}
+.border-btn {
+    border: 1px solid #FFD234;
+    padding: 12px 46px;
+    border-radius: 5px;
+    margin-left: 56px;
+    color: #FFD234;
+    cursor: pointer;
+}
+.item-cover1 {
+    position: absolute;
+    left: 0px;
+    top: 520px;
+}
+.item-cover2 {
+    position: absolute;
+    left: 100px;
+    bottom: -20px;
+}
